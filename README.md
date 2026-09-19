@@ -1,384 +1,282 @@
-﻿<div align="center">
+# CV Maker
 
-CV Maker
+## Professional, ATS-Friendly CV Creation for Windows
 
-Create professional, ATS-friendly CVs easily on Windows
+**CV Maker - By Farouk**
 
-CV Maker - By Farouk
+[![Version](https://img.shields.io/badge/version-1.0.0-BC965D?style=for-the-badge)](https://github.com/dafarouk/CV-Maker)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows)
+![Free](https://img.shields.io/badge/Free-Yes-success?style=for-the-badge)
 
+---
 
+## Download CV Maker
 
+### [CLICK HERE TO DOWNLOAD CV MAKER v1.0.0](https://github.com/dafarouk/CV-Maker/raw/refs/heads/main/CV-Maker-v1.0.0-Windows-x64.zip)
 
+You do **not** need a GitHub account.
 
-<br>
+Download the ZIP, extract it, run the installer, and you are ready to use CV Maker.
 
-â¬‡ï¸ Download CV Maker
+---
 
-ðŸ‘‰ CLICK HERE TO DOWNLOAD CV MAKER
+# About CV Maker
 
-</div>
+CV Maker is a Windows desktop application designed to help you create professional and ATS-friendly CVs without needing LaTeX, Python, programming knowledge, or any other technical tools.
 
-ðŸ‘‹ Welcome to CV Maker
+Everything required to generate your CV is already included with the application.
 
-CV Maker is a Windows application that helps you create professional and ATS-friendly CVs without needing to know LaTeX, programming, or any technical tools.
+### You do not need to install:
 
-Everything needed to generate your CV is already included in the installer.
+- Python
+- LaTeX
+- MiKTeX
+- TeX Live
+- Tectonic
+- Visual Studio Code
+- Git
 
-You do not need to install:
+---
 
-Python
+# Installation Guide
 
-LaTeX
+## Step 1 - Download CV Maker
 
-MiKTeX
+Click the download link below:
 
-TeX Live
+### [Download CV-Maker-v1.0.0-Windows-x64.zip](https://github.com/dafarouk/CV-Maker/raw/refs/heads/main/CV-Maker-v1.0.0-Windows-x64.zip)
 
-Tectonic
+Your browser will download:
 
-Visual Studio Code
-
-Git
-
-ðŸ“¥ How to download CV Maker
-
-You do not need a GitHub account.
-
-Just follow these steps.
-
-Step 1 - Open the download page
-
-Click here:
-
-ðŸ‘‰ Download CV Maker
-
-This opens the latest CV Maker release on GitHub.
-
-Step 2 - Scroll to the Assets section
-
-On the release page, scroll down until you see:
-
-Assets
-
-You may see several files.
-
-For normal installation, download:
-
+```text
 CV-Maker-v1.0.0-Windows-x64.zip
+```
 
-You do not need to download the source code files automatically shown by GitHub.
+The file will normally appear in your **Downloads** folder.
 
-Step 3 - Download the ZIP
+---
 
-Click:
+## Step 2 - Extract the ZIP
 
+Open your **Downloads** folder and find:
+
+```text
 CV-Maker-v1.0.0-Windows-x64.zip
+```
 
-Your browser will download the file.
+Then:
 
-It will normally appear in your:
+1. Right-click the ZIP file.
+2. Click **Extract All...**
+3. Click **Extract**.
+4. Open the extracted folder.
 
-Downloads
+Inside the folder you should see:
 
-folder.
-
-ðŸ“¦ How to extract the ZIP
-
-Open your Downloads folder.
-
-Find:
-
-CV-Maker-v1.0.0-Windows-x64.zip
-
-Right-click the file and choose:
-
-Extract All...
-
-Then click:
-
-Extract
-
-Open the extracted folder.
-
-Inside, you should see:
-
+```text
 CV-Maker-Setup-1.0.0.exe
 README.txt
+```
 
-ðŸ’» How to install CV Maker
+---
+
+## Step 3 - Install CV Maker
 
 Double-click:
 
+```text
 CV-Maker-Setup-1.0.0.exe
+```
 
-The installer will open.
+Then follow the installer:
 
-Then follow these steps:
-
-Choose your language.
-
-Click Next.
-
-Choose where CV Maker should be installed.
-
-Keep the .cvm file association enabled if you want CV Maker project files to open automatically.
-
-Choose whether you want a Desktop shortcut.
-
-Click Install.
-
-Wait for the installation to finish.
-
-Click Finish.
+1. Choose your language.
+2. Click **Next**.
+3. Choose the installation location.
+4. Keep the `.cvm` file association enabled if you want CV Maker project files to open automatically.
+5. Choose whether you want a Desktop shortcut.
+6. Click **Install**.
+7. Wait for installation to finish.
+8. Click **Finish**.
 
 CV Maker is now installed.
 
-âš ï¸ Windows SmartScreen
+---
+
+# Windows SmartScreen
 
 CV Maker is currently distributed without a paid Windows code-signing certificate.
 
-Because of this, Windows may sometimes display:
+Because of this, Windows may display:
 
+```text
 Windows protected your PC
+```
 
-If you downloaded CV Maker from this official GitHub repository:
+If you downloaded the installer from this official GitHub repository:
 
-Click More info
+1. Click **More info**.
+2. Confirm that the file is:
 
-Check that the file is:
-
+```text
 CV-Maker-Setup-1.0.0.exe
+```
 
-Click Run anyway
+3. Click **Run anyway**.
 
-This warning does not mean that Python or LaTeX is missing.
+---
 
-ðŸš€ Start CV Maker
+# Launch CV Maker
 
-After installation, launch CV Maker from:
+After installation, you can launch CV Maker from:
 
-Start Menu â†’ CV Maker
+```text
+Start Menu > CV Maker
+```
 
-or use the Desktop shortcut if you selected that option during installation.
+or from the Desktop shortcut if you selected that option during installation.
 
-âœ¨ Main features
+---
 
-Feature
+# Main Features
 
-Available
+| Feature | Available |
+|---|:---:|
+| Professional CV editor | Yes |
+| ATS-friendly CV structure | Yes |
+| Multiple professional templates | Yes |
+| Live CV preview | Yes |
+| PDF export | Yes |
+| DOCX export | Yes |
+| ATS Check | Yes |
+| Custom colors and design | Yes |
+| Save CV projects | Yes |
+| Reopen CV projects | Yes |
+| `.cvm` project format | Yes |
+| Autosave and recovery | Yes |
+| Undo and redo | Yes |
+| Export history | Yes |
+| Offline PDF generation | Yes |
+| Local-first storage | Yes |
+| English / French installer | Yes |
 
-Professional CV editor
+---
 
-âœ…
-
-ATS-friendly CV structure
-
-âœ…
-
-Multiple professional templates
-
-âœ…
-
-Live CV preview
-
-âœ…
-
-PDF export
-
-âœ…
-
-DOCX export
-
-âœ…
-
-ATS Check
-
-âœ…
-
-Custom colors and design
-
-âœ…
-
-Save CV projects
-
-âœ…
-
-Reopen .cvm projects
-
-âœ…
-
-Autosave and recovery
-
-âœ…
-
-Export history
-
-âœ…
-
-Offline PDF generation
-
-âœ…
-
-Automatic update checking
-
-âœ…
-
-Local-first storage
-
-âœ…
-
-English / French installer
-
-âœ…
-
-ðŸ“„ CV Maker project files
+# CV Maker Project Files
 
 CV Maker uses its own project format:
 
+```text
 .cvm
+```
 
-Example:
+For example:
 
+```text
 My Professional CV.cvm
+```
 
-This lets you save your work and reopen it later without starting again.
+This allows you to save your CV project and reopen it later without starting from scratch.
 
-ðŸ”’ Privacy
+---
 
-CV Maker is designed as a local-first application.
+# Privacy
 
-Your CV information, saved projects, autosaves, and generated documents stay on your computer by default.
+CV Maker is designed as a **local-first desktop application**.
 
-CV content is not intentionally uploaded to an external CV-processing service.
+Your CV information, projects, autosaves, and generated documents remain on your computer by default.
 
-ðŸ”„ Updates
+CV Maker does not require an online account to create or export your CV.
 
-CV Maker includes an update system connected to the official GitHub Releases page.
+---
 
-When a newer version becomes available, CV Maker can detect it and offer the update.
+# What Is Inside the Download?
 
-You can also manually check from inside the application:
+The Windows download contains:
 
-About â†’ Check Updates
-
-Example:
-
-Installed version
-1.0.0
-   â†“
-New GitHub release
-1.0.1
-   â†“
-CV Maker detects the update
-   â†“
-You choose whether to install it
-
-ðŸ“‚ What is inside the download?
-
-The normal Windows download contains:
-
+```text
 CV-Maker-v1.0.0-Windows-x64.zip
-â”‚
-â”œâ”€â”€ CV-Maker-Setup-1.0.0.exe
-â””â”€â”€ README.txt
+|
+|-- CV-Maker-Setup-1.0.0.exe
+`-- README.txt
+```
 
 That is all a normal user needs.
 
-â“ Do I need GitHub?
+---
+
+# System Requirements
+
+| Requirement | Details |
+|---|---|
+| Operating System | Windows 10 or Windows 11 |
+| Architecture | 64-bit |
+| Internet | Required for download |
+| Python | Not required |
+| LaTeX | Not required |
+| MiKTeX | Not required |
+| TeX Live | Not required |
+| Git | Not required |
+| GitHub Account | Not required |
+
+---
+
+# Quick Installation
+
+| Step | Action |
+|---:|---|
+| 1 | Download `CV-Maker-v1.0.0-Windows-x64.zip` |
+| 2 | Open your Downloads folder |
+| 3 | Right-click the ZIP |
+| 4 | Click **Extract All...** |
+| 5 | Open the extracted folder |
+| 6 | Double-click `CV-Maker-Setup-1.0.0.exe` |
+| 7 | Follow the installer |
+| 8 | Launch CV Maker |
+
+---
+
+# Do I Need GitHub?
 
 No.
 
-GitHub is only being used to host the official CV Maker downloads and updates.
+GitHub is only used to host the official CV Maker download.
 
-You do not need:
+You do **not** need:
 
-a GitHub account
-
-Git
-
-programming knowledge
-
-Visual Studio Code
-
-Python
-
-LaTeX
+- A GitHub account
+- Git
+- Programming knowledge
+- Visual Studio Code
+- Python
+- LaTeX
 
 Just download the ZIP, extract it, and run the installer.
 
-ðŸ–¥ï¸ System requirements
+---
 
-Requirement
+# Current Version
 
-Details
+## CV Maker v1.0.0
 
-Operating system
+### [Download CV Maker v1.0.0](https://github.com/dafarouk/CV-Maker/raw/refs/heads/main/CV-Maker-v1.0.0-Windows-x64.zip)
 
-Windows 10 / Windows 11
+---
 
-Architecture
+# Official Links
 
-64-bit
+| Resource | Link |
+|---|---|
+| Website | https://www.damergi.com |
+| GitHub Profile | https://github.com/dafarouk |
+| CV Maker Repository | https://github.com/dafarouk/CV-Maker |
 
-Internet
+---
 
-Needed for download and update checks
+# CV Maker
 
-Python
+## Build your CV. Keep your data local. Export when you are ready.
 
-Not required
+**Made by Farouk**
 
-LaTeX
-
-Not required
-
-GitHub account
-
-Not required
-
-ðŸ“¦ Latest version
-
-Current public release:
-
-CV Maker v1.0.0
-
-ðŸ‘‰ Download the latest version
-
-âœ… Quick installation summary
-
-1. Open the CV Maker GitHub release page
-2. Scroll to Assets
-3. Download CV-Maker-v1.0.0-Windows-x64.zip
-4. Open your Downloads folder
-5. Right-click the ZIP
-6. Click Extract All
-7. Open the extracted folder
-8. Double-click CV-Maker-Setup-1.0.0.exe
-9. Follow the installer
-10. Launch CV Maker
-
-ðŸŒ Official links
-
-Website
-
-https://www.damergi.com
-
-GitHub profile
-
-https://github.com/dafarouk
-
-Official CV Maker download repository
-
-https://github.com/dafarouk/CV-Maker
-
-<div align="center">
-
-CV Maker
-
-Build your CV. Keep your data local. Export when you're ready.
-
-Made by Farouk
-
-Version 1.0.0
-
-</div>
+**Version 1.0.0**
