@@ -4,15 +4,33 @@
 
 **CV Maker - By Farouk**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-BC965D?style=for-the-badge)](https://github.com/dafarouk/CV-Maker)
+[![Version](https://img.shields.io/badge/version-1.0.1-BC965D?style=for-the-badge)](https://github.com/dafarouk/CV-Maker/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows)
 ![Free](https://img.shields.io/badge/Free-Yes-success?style=for-the-badge)
 
 ---
 
+# ⚠️ Windows Defender / Antivirus Notice
+
+CV Maker is currently distributed **without a paid Windows code-signing certificate**.
+
+Because CV Maker is a new and unsigned Windows application, **Windows Defender, Microsoft SmartScreen, or another antivirus may warn you about the installer or temporarily block it**.
+
+If you downloaded CV Maker from this official repository:
+
+**https://github.com/dafarouk/CV-Maker**
+
+you can allow the application or choose **More info → Run anyway** when Windows SmartScreen appears.
+
+CV Maker does not intentionally contain malicious software, adware, trackers, or bundled unwanted applications.
+
+**Do not disable your antivirus globally.** Only allow the CV Maker installer if you downloaded it from the official repository above.
+
+---
+
 ## Download CV Maker
 
-### [CLICK HERE TO DOWNLOAD CV MAKER v1.0.0](https://github.com/dafarouk/CV-Maker/raw/refs/heads/main/CV-Maker-v1.0.0-Windows-x64.zip)
+### [CLICK HERE TO DOWNLOAD CV MAKER v1.0.1](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.1/CV-Maker-v1.0.1-Windows-x64.zip)
 
 You do **not** need a GitHub account.
 
@@ -44,12 +62,12 @@ Everything required to generate your CV is already included with the application
 
 Click the download link below:
 
-### [Download CV-Maker-v1.0.0-Windows-x64.zip](https://github.com/dafarouk/CV-Maker/raw/refs/heads/main/CV-Maker-v1.0.0-Windows-x64.zip)
+### [Download CV-Maker-v1.0.1-Windows-x64.zip](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.1/CV-Maker-v1.0.1-Windows-x64.zip)
 
 Your browser will download:
 
 ```text
-CV-Maker-v1.0.0-Windows-x64.zip
+CV-Maker-v1.0.1-Windows-x64.zip
 ```
 
 The file will normally appear in your **Downloads** folder.
@@ -61,7 +79,7 @@ The file will normally appear in your **Downloads** folder.
 Open your **Downloads** folder and find:
 
 ```text
-CV-Maker-v1.0.0-Windows-x64.zip
+CV-Maker-v1.0.1-Windows-x64.zip
 ```
 
 Then:
@@ -74,7 +92,7 @@ Then:
 Inside the folder you should see:
 
 ```text
-CV-Maker-Setup-1.0.0.exe
+CV-Maker-Setup-1.0.1.exe
 README.txt
 ```
 
@@ -85,7 +103,7 @@ README.txt
 Double-click:
 
 ```text
-CV-Maker-Setup-1.0.0.exe
+CV-Maker-Setup-1.0.1.exe
 ```
 
 Then follow the installer:
@@ -119,10 +137,18 @@ If you downloaded the installer from this official GitHub repository:
 2. Confirm that the file is:
 
 ```text
-CV-Maker-Setup-1.0.0.exe
+CV-Maker-Setup-1.0.1.exe
 ```
 
 3. Click **Run anyway**.
+
+Some antivirus software may also warn about new or unsigned applications.
+
+Only allow CV Maker when it was downloaded from the official repository:
+
+```text
+https://github.com/dafarouk/CV-Maker
+```
 
 ---
 
@@ -138,6 +164,37 @@ or from the Desktop shortcut if you selected that option during installation.
 
 ---
 
+# Automatic Updates
+
+CV Maker includes a built-in update system.
+
+When a new version becomes available, CV Maker can notify you directly inside the application.
+
+You can also manually check from:
+
+```text
+About CVM > Check for updates
+```
+
+When an update is available, click:
+
+```text
+Download & Install
+```
+
+CV Maker will:
+
+1. Download the new installer.
+2. Verify the update.
+3. Launch the installer automatically.
+4. Close the old version.
+5. Install the new version.
+6. Reopen CV Maker.
+
+No manual reinstall is normally required.
+
+---
+
 # Main Features
 
 | Feature | Available |
@@ -148,15 +205,19 @@ or from the Desktop shortcut if you selected that option during installation.
 | Live CV preview | Yes |
 | PDF export | Yes |
 | DOCX export | Yes |
-| ATS Check | Yes |
+| ATS Check for PDF / DOCX files | Yes |
 | Custom colors and design | Yes |
 | Save CV projects | Yes |
+| Recent Projects | Yes |
 | Reopen CV projects | Yes |
 | `.cvm` project format | Yes |
 | Autosave and recovery | Yes |
 | Undo and redo | Yes |
+| Save As workflow | Yes |
 | Export history | Yes |
+| Advanced LaTeX customization | Yes |
 | Offline PDF generation | Yes |
+| Built-in automatic updates | Yes |
 | Local-first storage | Yes |
 | English / French installer | Yes |
 
@@ -195,9 +256,9 @@ CV Maker does not require an online account to create or export your CV.
 The Windows download contains:
 
 ```text
-CV-Maker-v1.0.0-Windows-x64.zip
+CV-Maker-v1.0.1-Windows-x64.zip
 |
-|-- CV-Maker-Setup-1.0.0.exe
+|-- CV-Maker-Setup-1.0.1.exe
 `-- README.txt
 ```
 
@@ -211,7 +272,7 @@ That is all a normal user needs.
 |---|---|
 | Operating System | Windows 10 or Windows 11 |
 | Architecture | 64-bit |
-| Internet | Required for download |
+| Internet | Required for download and update checks |
 | Python | Not required |
 | LaTeX | Not required |
 | MiKTeX | Not required |
@@ -225,12 +286,12 @@ That is all a normal user needs.
 
 | Step | Action |
 |---:|---|
-| 1 | Download `CV-Maker-v1.0.0-Windows-x64.zip` |
+| 1 | Download `CV-Maker-v1.0.1-Windows-x64.zip` |
 | 2 | Open your Downloads folder |
 | 3 | Right-click the ZIP |
 | 4 | Click **Extract All...** |
 | 5 | Open the extracted folder |
-| 6 | Double-click `CV-Maker-Setup-1.0.0.exe` |
+| 6 | Double-click `CV-Maker-Setup-1.0.1.exe` |
 | 7 | Follow the installer |
 | 8 | Launch CV Maker |
 
@@ -240,7 +301,7 @@ That is all a normal user needs.
 
 No.
 
-GitHub is only used to host the official CV Maker download.
+GitHub is only used to host the official CV Maker download and releases.
 
 You do **not** need:
 
@@ -257,9 +318,11 @@ Just download the ZIP, extract it, and run the installer.
 
 # Current Version
 
-## CV Maker v1.0.0
+## CV Maker v1.0.1
 
-### [Download CV Maker v1.0.0](https://github.com/dafarouk/CV-Maker/raw/refs/heads/main/CV-Maker-v1.0.0-Windows-x64.zip)
+### [Download CV Maker v1.0.1](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.1/CV-Maker-v1.0.1-Windows-x64.zip)
+
+### [View Latest Release](https://github.com/dafarouk/CV-Maker/releases/latest)
 
 ---
 
@@ -270,6 +333,7 @@ Just download the ZIP, extract it, and run the installer.
 | Website | https://www.damergi.com |
 | GitHub Profile | https://github.com/dafarouk |
 | CV Maker Repository | https://github.com/dafarouk/CV-Maker |
+| CV Maker Releases | https://github.com/dafarouk/CV-Maker/releases |
 
 ---
 
@@ -279,4 +343,4 @@ Just download the ZIP, extract it, and run the installer.
 
 **Made by Farouk**
 
-**Version 1.0.0**
+**Version 1.0.1**
