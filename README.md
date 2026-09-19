@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 CV Maker
 
@@ -12,13 +12,13 @@ CV Maker - By Farouk
 
 <br>
 
-⬇️ Download CV Maker
+â¬‡ï¸ Download CV Maker
 
-👉 CLICK HERE TO DOWNLOAD CV MAKER
+ðŸ‘‰ CLICK HERE TO DOWNLOAD CV MAKER
 
 </div>
 
-👋 Welcome to CV Maker
+ðŸ‘‹ Welcome to CV Maker
 
 CV Maker is a Windows application that helps you create professional and ATS-friendly CVs without needing to know LaTeX, programming, or any technical tools.
 
@@ -40,7 +40,7 @@ Visual Studio Code
 
 Git
 
-📥 How to download CV Maker
+ðŸ“¥ How to download CV Maker
 
 You do not need a GitHub account.
 
@@ -50,7 +50,7 @@ Step 1 - Open the download page
 
 Click here:
 
-👉 Download CV Maker
+ðŸ‘‰ Download CV Maker
 
 This opens the latest CV Maker release on GitHub.
 
@@ -82,7 +82,7 @@ Downloads
 
 folder.
 
-📦 How to extract the ZIP
+ðŸ“¦ How to extract the ZIP
 
 Open your Downloads folder.
 
@@ -105,7 +105,7 @@ Inside, you should see:
 CV-Maker-Setup-1.0.0.exe
 README.txt
 
-💻 How to install CV Maker
+ðŸ’» How to install CV Maker
 
 Double-click:
 
@@ -133,7 +133,7 @@ Click Finish.
 
 CV Maker is now installed.
 
-⚠️ Windows SmartScreen
+âš ï¸ Windows SmartScreen
 
 CV Maker is currently distributed without a paid Windows code-signing certificate.
 
@@ -153,15 +153,15 @@ Click Run anyway
 
 This warning does not mean that Python or LaTeX is missing.
 
-🚀 Start CV Maker
+ðŸš€ Start CV Maker
 
 After installation, launch CV Maker from:
 
-Start Menu → CV Maker
+Start Menu â†’ CV Maker
 
 or use the Desktop shortcut if you selected that option during installation.
 
-✨ Main features
+âœ¨ Main features
 
 Feature
 
@@ -169,69 +169,69 @@ Available
 
 Professional CV editor
 
-✅
+âœ…
 
 ATS-friendly CV structure
 
-✅
+âœ…
 
 Multiple professional templates
 
-✅
+âœ…
 
 Live CV preview
 
-✅
+âœ…
 
 PDF export
 
-✅
+âœ…
 
 DOCX export
 
-✅
+âœ…
 
 ATS Check
 
-✅
+âœ…
 
 Custom colors and design
 
-✅
+âœ…
 
 Save CV projects
 
-✅
+âœ…
 
 Reopen .cvm projects
 
-✅
+âœ…
 
 Autosave and recovery
 
-✅
+âœ…
 
 Export history
 
-✅
+âœ…
 
 Offline PDF generation
 
-✅
+âœ…
 
 Automatic update checking
 
-✅
+âœ…
 
 Local-first storage
 
-✅
+âœ…
 
 English / French installer
 
-✅
+âœ…
 
-📄 CV Maker project files
+ðŸ“„ CV Maker project files
 
 CV Maker uses its own project format:
 
@@ -243,7 +243,7 @@ My Professional CV.cvm
 
 This lets you save your work and reopen it later without starting again.
 
-🔒 Privacy
+ðŸ”’ Privacy
 
 CV Maker is designed as a local-first application.
 
@@ -251,7 +251,7 @@ Your CV information, saved projects, autosaves, and generated documents stay on 
 
 CV content is not intentionally uploaded to an external CV-processing service.
 
-🔄 Updates
+ðŸ”„ Updates
 
 CV Maker includes an update system connected to the official GitHub Releases page.
 
@@ -259,32 +259,32 @@ When a newer version becomes available, CV Maker can detect it and offer the upd
 
 You can also manually check from inside the application:
 
-About → Check Updates
+About â†’ Check Updates
 
 Example:
 
 Installed version
 1.0.0
-   ↓
+   â†“
 New GitHub release
 1.0.1
-   ↓
+   â†“
 CV Maker detects the update
-   ↓
+   â†“
 You choose whether to install it
 
-📂 What is inside the download?
+ðŸ“‚ What is inside the download?
 
 The normal Windows download contains:
 
 CV-Maker-v1.0.0-Windows-x64.zip
-│
-├── CV-Maker-Setup-1.0.0.exe
-└── README.txt
+â”‚
+â”œâ”€â”€ CV-Maker-Setup-1.0.0.exe
+â””â”€â”€ README.txt
 
 That is all a normal user needs.
 
-❓ Do I need GitHub?
+â“ Do I need GitHub?
 
 No.
 
@@ -306,7 +306,7 @@ LaTeX
 
 Just download the ZIP, extract it, and run the installer.
 
-🖥️ System requirements
+ðŸ–¥ï¸ System requirements
 
 Requirement
 
@@ -336,15 +336,15 @@ GitHub account
 
 Not required
 
-📦 Latest version
+ðŸ“¦ Latest version
 
 Current public release:
 
 CV Maker v1.0.0
 
-👉 Download the latest version
+ðŸ‘‰ Download the latest version
 
-✅ Quick installation summary
+âœ… Quick installation summary
 
 1. Open the CV Maker GitHub release page
 2. Scroll to Assets
@@ -357,7 +357,7 @@ CV Maker v1.0.0
 9. Follow the installer
 10. Launch CV Maker
 
-🌐 Official links
+ðŸŒ Official links
 
 Website
 
