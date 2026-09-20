@@ -4,7 +4,7 @@
 
 **CV Maker - By Farouk**
 
-[![Version](https://img.shields.io/badge/version-1.0.1-BC965D?style=for-the-badge)](https://github.com/dafarouk/CV-Maker/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0.2-BC965D?style=for-the-badge)](https://github.com/dafarouk/CV-Maker/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows)
 ![Free](https://img.shields.io/badge/Free-Yes-success?style=for-the-badge)
 
@@ -30,11 +30,45 @@ CV Maker does not intentionally contain malicious software, adware, trackers, or
 
 ## Download CV Maker
 
-### [CLICK HERE TO DOWNLOAD CV MAKER v1.0.1](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.1/CV-Maker-v1.0.1-Windows-x64.zip)
+### [CLICK HERE TO DOWNLOAD CV MAKER v1.0.2](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.2/CV-Maker-v1.0.2-Windows-x64.zip)
 
 You do **not** need a GitHub account.
 
 Download the ZIP, extract it, run the installer, and you are ready to use CV Maker.
+
+---
+
+# What's New in v1.0.2
+
+CV Maker v1.0.2 includes important fixes and interface improvements.
+
+### Improvements
+
+- Fixed Tools / Outils, skill group labels, and language labels that could disappear in the HTML CV preview.
+- Redesigned **LaTeX Studio** into a more complete coding environment.
+- Added LaTeX syntax highlighting.
+- Added active-line highlighting and improved line numbers.
+- Added bracket matching.
+- Added Find and Replace.
+- Added editor line / column status.
+- Added improved indentation support.
+- Improved homepage English / French switching.
+- Homepage buttons now correctly update when changing application language.
+
+### Update Experience
+
+The built-in updater has also been improved.
+
+When a new version is available, CV Maker can now display:
+
+- Release notes before installing.
+- Real download progress.
+- Download size and percentage.
+- SHA-256 verification status.
+- A clear message before handing control to the installer.
+- A warning not to close or manually reopen CV Maker during installation.
+- Automatic reopening after the update.
+- A one-time **Update Successful** window summarizing the fixes and improvements.
 
 ---
 
@@ -62,12 +96,12 @@ Everything required to generate your CV is already included with the application
 
 Click the download link below:
 
-### [Download CV-Maker-v1.0.1-Windows-x64.zip](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.1/CV-Maker-v1.0.1-Windows-x64.zip)
+### [Download CV-Maker-v1.0.2-Windows-x64.zip](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.2/CV-Maker-v1.0.2-Windows-x64.zip)
 
 Your browser will download:
 
 ```text
-CV-Maker-v1.0.1-Windows-x64.zip
+CV-Maker-v1.0.2-Windows-x64.zip
 ```
 
 The file will normally appear in your **Downloads** folder.
@@ -79,7 +113,7 @@ The file will normally appear in your **Downloads** folder.
 Open your **Downloads** folder and find:
 
 ```text
-CV-Maker-v1.0.1-Windows-x64.zip
+CV-Maker-v1.0.2-Windows-x64.zip
 ```
 
 Then:
@@ -92,7 +126,7 @@ Then:
 Inside the folder you should see:
 
 ```text
-CV-Maker-Setup-1.0.1.exe
+CV-Maker-Setup-1.0.2.exe
 README.txt
 ```
 
@@ -103,7 +137,7 @@ README.txt
 Double-click:
 
 ```text
-CV-Maker-Setup-1.0.1.exe
+CV-Maker-Setup-1.0.2.exe
 ```
 
 Then follow the installer:
@@ -137,7 +171,7 @@ If you downloaded the installer from this official GitHub repository:
 2. Confirm that the file is:
 
 ```text
-CV-Maker-Setup-1.0.1.exe
+CV-Maker-Setup-1.0.2.exe
 ```
 
 3. Click **Run anyway**.
@@ -168,7 +202,7 @@ or from the Desktop shortcut if you selected that option during installation.
 
 CV Maker includes a built-in update system.
 
-When a new version becomes available, CV Maker can notify you directly inside the application.
+When a new version becomes available, CV Maker can notify you directly inside the application and show what has been fixed or improved.
 
 You can also manually check from:
 
@@ -184,12 +218,18 @@ Download & Install
 
 CV Maker will:
 
-1. Download the new installer.
-2. Verify the update.
-3. Launch the installer automatically.
-4. Close the old version.
-5. Install the new version.
-6. Reopen CV Maker.
+1. Show the available version and release notes.
+2. Download the new installer.
+3. Display real download progress.
+4. Verify the downloaded installer.
+5. Verify its SHA-256 integrity.
+6. Prepare the installation.
+7. Tell you not to close or manually reopen CV Maker.
+8. Launch the installer.
+9. Close the old version.
+10. Install the new version.
+11. Reopen CV Maker automatically.
+12. Show a one-time summary of the completed update.
 
 No manual reinstall is normally required.
 
@@ -216,10 +256,40 @@ No manual reinstall is normally required.
 | Save As workflow | Yes |
 | Export history | Yes |
 | Advanced LaTeX customization | Yes |
+| LaTeX syntax highlighting | Yes |
+| LaTeX Find / Replace | Yes |
+| LaTeX line numbers and active-line highlighting | Yes |
+| LaTeX bracket matching | Yes |
 | Offline PDF generation | Yes |
 | Built-in automatic updates | Yes |
+| Update progress and verification | Yes |
+| Post-update changelog | Yes |
 | Local-first storage | Yes |
+| English / French application UI | Yes |
 | English / French installer | Yes |
+
+---
+
+# Advanced LaTeX Studio
+
+CV Maker includes an advanced LaTeX Studio for users who want complete control over their CV source.
+
+The LaTeX Studio includes:
+
+- Full LaTeX source editing.
+- Syntax highlighting.
+- Line numbers.
+- Active-line highlighting.
+- Bracket matching.
+- Find and Replace.
+- Indentation support.
+- Cursor line and column information.
+- Live PDF compilation.
+- PDF preview.
+- `.tex` source export.
+- PDF export.
+
+CV Maker includes its own offline LaTeX engine, so users do not need to install MiKTeX, TeX Live, or Tectonic separately.
 
 ---
 
@@ -249,6 +319,8 @@ Your CV information, projects, autosaves, and generated documents remain on your
 
 CV Maker does not require an online account to create or export your CV.
 
+Internet access is only required for downloading CV Maker and checking for application updates.
+
 ---
 
 # What Is Inside the Download?
@@ -256,9 +328,9 @@ CV Maker does not require an online account to create or export your CV.
 The Windows download contains:
 
 ```text
-CV-Maker-v1.0.1-Windows-x64.zip
+CV-Maker-v1.0.2-Windows-x64.zip
 |
-|-- CV-Maker-Setup-1.0.1.exe
+|-- CV-Maker-Setup-1.0.2.exe
 `-- README.txt
 ```
 
@@ -286,12 +358,12 @@ That is all a normal user needs.
 
 | Step | Action |
 |---:|---|
-| 1 | Download `CV-Maker-v1.0.1-Windows-x64.zip` |
+| 1 | Download `CV-Maker-v1.0.2-Windows-x64.zip` |
 | 2 | Open your Downloads folder |
 | 3 | Right-click the ZIP |
 | 4 | Click **Extract All...** |
 | 5 | Open the extracted folder |
-| 6 | Double-click `CV-Maker-Setup-1.0.1.exe` |
+| 6 | Double-click `CV-Maker-Setup-1.0.2.exe` |
 | 7 | Follow the installer |
 | 8 | Launch CV Maker |
 
@@ -318,9 +390,9 @@ Just download the ZIP, extract it, and run the installer.
 
 # Current Version
 
-## CV Maker v1.0.1
+## CV Maker v1.0.2
 
-### [Download CV Maker v1.0.1](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.1/CV-Maker-v1.0.1-Windows-x64.zip)
+### [Download CV Maker v1.0.2](https://github.com/dafarouk/CV-Maker/releases/download/v1.0.2/CV-Maker-v1.0.2-Windows-x64.zip)
 
 ### [View Latest Release](https://github.com/dafarouk/CV-Maker/releases/latest)
 
@@ -343,4 +415,4 @@ Just download the ZIP, extract it, and run the installer.
 
 **Made by Farouk**
 
-**Version 1.0.1**
+**Version 1.0.2**
